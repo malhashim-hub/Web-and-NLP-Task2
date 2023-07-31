@@ -5,5 +5,6 @@ Coop in Smart Method building Control panel page connected to the database and d
 
 
 
-here is the database named as test2. consistence of two columns, dir for storing the entered value and.
-![image](https://github.com/malhashim-hub/Web-and-NLP-Task2/assets/119134365/08ce668d-ac82-46fc-96c4-2b22485c6b82)
+here is the database named as test2. consistence of two columns, dir for storing the entered value and created_at.
+![image](https://github.com/malhashim-hub/Web-and-NLP-Task2/assets/119134365/9a9fd0c0-4ecf-40b5-afab-bc0544297341)
+
