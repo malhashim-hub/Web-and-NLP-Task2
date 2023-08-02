@@ -1,5 +1,5 @@
 # Web-and-NLP-Task2
-Coop in Smart Method building Control panel page connected to the database and demonstrates the AI agent movement. Also, including inserting data and retrieving.
+Coop in Smart Method building Control panel page connected to the database and demonstrates the AI agent movement. Also, including inserting data.
 
 how it is work?
 By using jQuery and AJAX it will provide stability and reliability to the control panel page by performing the following processes: sending data, interacting with the user, watching how the AI agent is moving, and storing its movement in the database.
